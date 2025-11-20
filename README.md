@@ -1,6 +1,6 @@
 
 
-<h1>👋 Hi, I’m <a href="https://www.linkedin.com/in/jasonmorrissette">Jason Morrissette</a></h1><br>
+<h1><a href="https://www.linkedin.com/in/jasonmorrissette">Jason Morrissette</a> Cyber Security Codex</h1><br>
 <h2>Full-Stack Engineer turned Cybersecurity Enthusiast.</h2><br>
 🔹 Blue Team focus: SIEM, threat hunting, Snort, Zeek, Tenable, Azure Security, Microsoft Defender for Endpoint (MDE).<br>
 🔹 Red Team goals: Pen testing, exploit dev, adversary simulation, OSCP path.<br>
