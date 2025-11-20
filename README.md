@@ -1,7 +1,45 @@
-## Hi there 👋
+
+
+<h1>👋 Hi, I’m Jason Morrissette</h1><br>
+<h2>Full-Stack Engineer turned Cybersecurity Enthusiast.</h2><br>
+🔹 Blue Team focus: SIEM, threat hunting, Snort, Zeek, Tenable, Azure Security, Microsoft Defender for Endpoint (MDE).<br>
+🔹 Red Team goals: Pen testing, exploit dev, adversary simulation, OSCP path.<br>
+⚡ Always learning — from secure coding & OWASP to hands-on labs and certifications (Security+ → CySA+ → OSCP).<br>
+
+<h2>👨‍💻 Cloud/Cybersecurity Projects:</h2>
+
+🚨 Threat Hunting & Security Operations
+
+
+<h2>Skills</h2>
+
+### 🛡️ Security & Blue Team
+![Tenable](https://img.shields.io/badge/Tenable-0095D9?style=for-the-badge&logo=tenable&logoColor=white)
+![Microsoft Defender for Endpoint](https://img.shields.io/badge/MDE-0067B8?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure Security](https://img.shields.io/badge/Azure_Security-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white)
+![Zeek](https://img.shields.io/badge/Zeek-2E3440?style=for-the-badge&logoColor=white)
+
+### ⚔️ Offensive / Red Team Goals
+![Penetration Testing](https://img.shields.io/badge/Pen--Testing-FF4F00?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Exploit Dev](https://img.shields.io/badge/Exploit_Dev-000000?style=for-the-badge&logo=hackaday&logoColor=white)
+![OSCP](https://img.shields.io/badge/OSCP_Path-DA1F26?style=for-the-badge&logo=offensive-security&logoColor=white)
+
+### 💻 Development & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🎓 Certifications Obtained
+![Google Cybersecurity Certificate](https://img.shields.io/badge/Google_Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 🎓 Certifications In Progress
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-EE0000?style=for-the-badge&logo=comptia&logoColor=white)
 
 <!--
-**TugFury/TugFury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jmorrissette1/jmorrissette1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
