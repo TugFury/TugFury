@@ -2,18 +2,19 @@
 
 <h1><a href="https://www.linkedin.com/in/jasonmorrissette">Jason Morrissette's</a> Cyber Security Codex</h1><br>
 <h2>Future Security Engineer | DevSecOps + Full-Stack Developer | Threat Hunter
-</h2><br>
-🔹 Blue Team focus: SIEM, threat hunting, Snort, Zeek, Tenable, Azure Security, Microsoft Defender for Endpoint (MDE).<br>
-🔹 Red Team goals: Pen testing, exploit dev, adversary simulation, OSCP path.<br>
-⚡ Always learning — from secure coding & OWASP to hands-on labs and certifications (Security+ → CySA+ → OSCP).<br>
+</h2>
 <p>
 I'm Jason  a full-stack engineer transitioning into a hybrid Security Engineer / DevSecOps / Offensive Security role. My long-term goal is to become an Agentic AI Security Engineer, blending automation, secure software development, and offensive security techniques to build next-generation defensive tools.
 
-I’ve already completed the Google Cybersecurity Certificate, won two threat-hunting competitions, and actively build real security tools, including an AI SOC agent, secure dashboards, and internal analytics systems.
+I’ve already completed the Google Cybersecurity Certificate, completed two threat-hunting competitions, and actively build real security tools, including an AI SOC agent, secure dashboards, and internal analytics systems.
 
 Everything I’m doing right now  my projects, labs, learning path, and certifications is centered on one mission:
 </p>
 
+<br>
+🔹 Blue Team focus: SIEM, threat hunting, Snort, Zeek, Tenable, Azure Security, Microsoft Defender for Endpoint (MDE).<br>
+🔹 Red Team goals: Pen testing, exploit dev, adversary simulation, OSCP path.<br>
+⚡ Always learning — from secure coding & OWASP to hands-on labs and certifications (Security+ → CySA+ → OSCP).<br>
 <h2>👨‍💻Cybersecurity Projects:</h2>
 <a href="https://github.com/TugFury/vulnerability-management-program">Vulnerability Management Program Implementation</a>
 <h2>🚨 Threat Hunting & Security Operations</h2>
