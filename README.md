@@ -5,6 +5,14 @@
 🔹 Blue Team focus: SIEM, threat hunting, Snort, Zeek, Tenable, Azure Security, Microsoft Defender for Endpoint (MDE).<br>
 🔹 Red Team goals: Pen testing, exploit dev, adversary simulation, OSCP path.<br>
 ⚡ Always learning — from secure coding & OWASP to hands-on labs and certifications (Security+ → CySA+ → OSCP).<br>
+<p>Future Security Engineer | DevSecOps + Full-Stack Developer | Threat Hunter
+
+I'm Jason  a full-stack engineer transitioning into a hybrid Security Engineer / DevSecOps / Offensive Security role. My long-term goal is to become an Agentic AI Security Engineer, blending automation, secure software development, and offensive security techniques to build next-generation defensive tools.
+
+I’ve already completed the Google Cybersecurity Certificate, won two threat-hunting competitions, and actively build real security tools, including an AI SOC agent, secure dashboards, and internal analytics systems.
+
+Everything I’m doing right now  my projects, labs, learning path, and certifications is centered on one mission:
+</p>
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 <a href="https://github.com/TugFury/vulnerability-management-program">Vulnerability Management Program Implementation</a>
