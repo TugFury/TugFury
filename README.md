@@ -8,7 +8,7 @@
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
-🚨 Threat Hunting & Security Operations
+<h2>🚨 Threat Hunting & Security Operations</h2>
 
 <h2>🛡️ Threat Hunts – Cyber Range Community Investigations & Competitions</h2>
 
