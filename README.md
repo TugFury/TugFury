@@ -23,6 +23,8 @@ Everything I’m doing right now  my projects, labs, learning path, and certific
 <h2>🚨 Threat Hunting & Security Operations</h2>
 
 <h2>🛡️ Threat Hunts – Cyber Range Community Investigations & Competitions</h2>
+Coming soon
+
 
 <h3>THE AZUKI BREACH SAGA</h3>
 <ul>
