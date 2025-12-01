@@ -24,6 +24,7 @@ Everything I’m doing right now  my projects, labs, learning path, and certific
 
 <h2>🛡️ Threat Hunts – Cyber Range Community Investigations & Competitions</h2>
 
+<a href="#">Threat Hunts</a>
 <h2>Skills</h2>
 
 ### 🛡️ Security & Blue Team
