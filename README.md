@@ -16,6 +16,7 @@ Everything I’m doing right now  my projects, labs, learning path, and certific
 🔹 Red Team goals: Pen testing, exploit dev, adversary simulation, OSCP path.<br>
 ⚡ Always learning — from secure coding & OWASP to hands-on labs and certifications (Security+ → CySA+ → OSCP).<br>
 <h2>👨‍💻Cybersecurity Projects:</h2>
+
 🔵 BLUE TEAM 🔵 
 
 <a href="https://github.com/TugFury/vulnerability-management-program">Vulnerability Management Program Implementation</a>
