@@ -24,7 +24,9 @@ Everything I’m doing right now  my projects, labs, learning path, and certific
 
 <h2>🛡️ Threat Hunts – Cyber Range Community Investigations & Competitions</h2>
 
-<a href="#">Threat Hunts</a>
+<a href="https://github.com/TugFury/Threat-Hunts/tree/main/Azuki-RDP-Intrusion-2025">Port of Entry</a>
+
+<a href="#">Cargo Hold</a>
 <h2>Skills</h2>
 
 ### 🛡️ Security & Blue Team
