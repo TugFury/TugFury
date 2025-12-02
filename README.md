@@ -67,10 +67,9 @@ Coming soon
 ### 🎓 Certifications In Progress
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-EE0000?style=for-the-badge&logo=comptia&logoColor=white)
 ### 🎯 Practical Labs & Platforms
-🔗 TryHackMe — Blue Team, Red Team, SOC, Exploit Dev tracks  
-👉 https://tryhackme.com/p/TugFury
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/TugFury.png)](https://tryhackme.com/p/TugFury)
+
+<a href="https://tryhackme.com/p/TugFury">[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/TugFury.png)](https://tryhackme.com/p/TugFury)</a>
 
 <!--
 **Jmorrissette1/jmorrissette1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
