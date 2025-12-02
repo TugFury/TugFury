@@ -69,6 +69,7 @@ Coming soon
 ### 🎯 Practical Labs & Platforms
 🔗 TryHackMe — Blue Team, Red Team, SOC, Exploit Dev tracks  
 👉 https://tryhackme.com/p/TugFury
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/TugFury.png" alt="Your Image Badge" />
 
 <!--
