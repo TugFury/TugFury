@@ -72,6 +72,8 @@ Coming soon
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/TugFury.png" alt="Your Image Badge" />
 
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/TugFury.png)](https://tryhackme.com/p/TugFury)
+
 <!--
 **Jmorrissette1/jmorrissette1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
