@@ -1,3 +1,12 @@
+<h2 align="center">🛡️ Jason Morrissette — Cloud-Native Security & Agentic AI Engineer (Path)</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack-Builder-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Threat%20Hunter-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI%20Engineering-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cloud%20Security-azure?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Offensive%20Security-red?style=flat-square"/>
+</p>
 
 
 <h1><a href="https://www.linkedin.com/in/jasonmorrissette">Jason Morrissette's</a> Cyber Security Codex</h1><br>
