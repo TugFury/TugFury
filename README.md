@@ -26,7 +26,7 @@ Everything I’m doing right now  my projects, labs, learning path, and certific
 🔵 BLUE TEAM 🔵 
 <ul>
 <li><a href="https://github.com/TugFury/vulnerability-management-program">Vulnerability Management Program Implementation</a></li>
-<li><a href="">STIG Implementations</a></li>
+<li><a href="https://github.com/TugFury/STIGS">STIG Implementations</a></li>
 </ul>
 <h2>🚨 Threat Hunting & Security Operations</h2>
 Coming soon
