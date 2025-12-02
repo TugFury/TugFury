@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/Offensive%20Security-red?style=flat-square"/>
 </p>
 
-
-<h1><a href="https://www.linkedin.com/in/jasonmorrissette">Jason Morrissette's</a> Cyber Security Codex</h1><br>
 <h2>Cloud-Native AI Security Engineer (Training Path) | SOC Automation | Detection Engineering | Full-Stack Builder | Threat-Informed Defender</h2>
 <p>
 I'm Jason  a full-stack engineer transitioning into a hybrid Security Engineer / DevSecOps / Offensive Security role. My long-term goal is to become an Agentic AI Security Engineer, blending automation, secure software development, and offensive security techniques to build next-generation defensive tools.
