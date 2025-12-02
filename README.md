@@ -69,7 +69,7 @@ Coming soon
 ### 🎯 Practical Labs & Platforms
 🔗 TryHackMe — Blue Team, Red Team, SOC, Exploit Dev tracks  
 👉 https://tryhackme.com/p/TugFury
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5308835" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/TugFury.png" alt="Your Image Badge" />
 
 <!--
 **Jmorrissette1/jmorrissette1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
