@@ -38,6 +38,14 @@ Coming soon
 <li><a href="https://github.com/TugFury/Threat-Hunts/tree/main/Port%20of%20Entry">Port of Entry</a></li>
 <li><a href="#">Cargo Hold (Coming Soon)</a></li>
 </ul>
+
+## 🔧 Currently Building
+- AI SOC investigation agent (LangChain + Sentinel API)
+- Vulnerability automation workflow
+- Azure-based detection engineering lab
+
+
+
 <h2>Skills</h2>
 
 ### 🛡️ Security & Blue Team
