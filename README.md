@@ -1,13 +1,6 @@
-<h2 align="center">🛡️ Jason Morrissette — Cloud-Native Security & Agentic AI Engineer (Path)</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-Builder-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Threat%20Hunter-purple?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Agentic%20AI%20Engineering-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Cloud%20Security-azure?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Offensive%20Security-red?style=flat-square"/>
-</p>
-
+🛡️ Jason Morrissette
+Cloud-Native Security & Agentic AI Engineer (Training Path)
+<p align="center"> <img src="https://img.shields.io/badge/Full--Stack-Builder-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Threat%20Hunter-purple?style=flat-square"/> <img src="https://img.shields.io/badge/Agentic%20AI%20Engineering-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Cloud%20Security-azure?style=flat-square"/> <img src="https://img.shields.io/badge/Offensive%20Security-red?style=flat-square"/> </p>
 <h2>Cloud-Native AI Security Engineer (Training Path) | SOC Automation | Detection Engineering | Full-Stack Builder | Threat-Informed Defender</h2>
 <p>
 I'm Jason  a full-stack engineer transitioning into a hybrid Security Engineer / DevSecOps / Offensive Security role. My long-term goal is to become an Agentic AI Security Engineer, blending automation, secure software development, and offensive security techniques to build next-generation defensive tools.
