@@ -1,5 +1,4 @@
-🛡️ Jason Morrissette
-Cloud-Native Security & Agentic AI Engineer (Training Path)
+<h1 align="center">🛡️ Jason Morrissette Cloud-Native Security & Agentic AI Engineer (Training Path)</h1>
 <p align="center"> <img src="https://img.shields.io/badge/Full--Stack-Builder-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Threat%20Hunter-purple?style=flat-square"/> <img src="https://img.shields.io/badge/Agentic%20AI%20Engineering-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Cloud%20Security-azure?style=flat-square"/> <img src="https://img.shields.io/badge/Offensive%20Security-red?style=flat-square"/> </p>
 <h2>Cloud-Native AI Security Engineer (Training Path) | SOC Automation | Detection Engineering | Full-Stack Builder | Threat-Informed Defender</h2>
 <p>
