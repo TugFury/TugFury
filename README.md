@@ -20,6 +20,11 @@ Everything I’m doing right now  my projects, labs, learning path, and certific
 <li><a href="https://github.com/TugFury/vulnerability-management-program">Vulnerability Management Program Implementation</a></li>
 <li><a href="https://github.com/TugFury/STIGS">STIG Implementations</a></li>
 </ul>
+
+<h2>CVE Remidation </h2>
+<ul>
+  <li><a href="#">CVE for Next.js</a></li>
+</ul>
 <h2>🚨 Threat Hunting & Security Operations</h2>
 Coming soon
 
