@@ -26,7 +26,9 @@ Everything I’m doing right now  my projects, labs, learning path, and certific
   <li><a href="#">CVE for Next.js</a></li>
 </ul>
 <h2>🚨 Threat Hunting & Security Operations</h2>
-Coming soon
+<ul>
+  <li>SIEM SOC Lab</li>
+</ul>
 
 
 <h2>🛡️ Threat Hunts – Cyber Range Community Investigations & Competitions</h2>
