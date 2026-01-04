@@ -76,7 +76,7 @@ Everything I’m doing right now  my projects, labs, learning path, and certific
 ### 🎯 Practical Labs & Platforms
 
 
-<a href="https://tryhackme.com/p/TugFury"><img src="https://tryhackme-badges.s3.amazonaws.com/TugFury.png" alt="Your Image Badge" /></a>
+<a href="https://tryhackme.com/p/TugFury"><img src=""https://tryhackme-badges.s3.amazonaws.com/TugFury.png" alt="Your Image Badge" /></a>
 
 <!--
 **Jmorrissette1/jmorrissette1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
