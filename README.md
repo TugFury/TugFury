@@ -35,7 +35,9 @@ Everything I’m doing right now  my projects, labs, learning path, and certific
 <h3>THE AZUKI BREACH SAGA</h3>
 <ul>
 <li><a href="https://github.com/TugFury/Threat-Hunts/tree/main/Port%20of%20Entry">Port of Entry</a></li>
-<li><a href="#">Cargo Hold (Coming Soon)</a></li>
+<li><a href="https://github.com/TugFury/Threat-Hunts/tree/main/Cargo%20Hold">Cargo Hold</a></li>
+<li><a href="#">Bridge Takeover</a></li>
+<li><a href="#">Dead in the Water</a></li>
 </ul>
 
 ## 🔧 Currently Building
