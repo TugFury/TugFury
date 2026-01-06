@@ -25,6 +25,16 @@ I’ve already completed the Google Cybersecurity Certificate, completed two thr
 </ul>
 
 
+<h2>🛡️ Threat Hunts – Cyber Range Community Investigations & Competitions</h2>
+<h3>THE AZUKI BREACH SAGA</h3>
+<ul>
+<li><a href="https://github.com/TugFury/Threat-Hunts/tree/main/Port%20of%20Entry">Port of Entry</a></li>
+<li><a href="https://github.com/TugFury/Threat-Hunts/tree/main/Cargo%20Hold">Cargo Hold</a></li>
+<li><a href="#">Bridge Takeover</a></li>
+<li><a href="#">Dead in the Water</a></li>
+</ul>
+
+
 <h2>🚨 Threat Hunting & Security Operations</h2>
 <ul>
   <li>SIEM SOC Lab</li>
@@ -32,10 +42,6 @@ I’ve already completed the Google Cybersecurity Certificate, completed two thr
 
 </p>
 
-<br>
-🔹 Blue Team focus: SIEM, threat hunting, Snort, Zeek, Tenable, Azure Security, Microsoft Defender for Endpoint (MDE).<br>
-🔹 Red Team goals: Pen testing, exploit dev, adversary simulation, OSCP path.<br>
-⚡ Always learning — from secure coding & OWASP to hands-on labs and certifications (Security+ → CySA+ → OSCP).<br>
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
 🔵 BLUE TEAM 🔵 
