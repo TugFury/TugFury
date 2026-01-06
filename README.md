@@ -62,6 +62,7 @@ I’ve already completed the Google Cybersecurity Certificate, completed two thr
 ![Tenable](https://img.shields.io/badge/Tenable-0095D9?style=for-the-badge&logo=tenable&logoColor=white)
 ![Microsoft Defender for Endpoint](https://img.shields.io/badge/MDE-0067B8?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Azure Security](https://img.shields.io/badge/Azure_Security-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white)
 ![Zeek](https://img.shields.io/badge/Zeek-2E3440?style=for-the-badge&logoColor=white)
 
