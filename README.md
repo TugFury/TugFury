@@ -13,8 +13,9 @@ I’ve already completed the Google Cybersecurity Certificate, completed two thr
 </ul>
 
 <h2>Background:</h2>
-<p>19 years in IT (helpdesk → sysadmin → network engineer → developer) gives me deep technical context for understanding how systems are built, secured, and exploited.</p>
-<ul>This background gives me deep context for how systems are:
+<p>19 years in IT (Help Desk → Sysadmin → Network Engineer → Software Developer)</p>
+<p>This background gives me deep context for how systems are:</p>
+<ul>
   <li>Built and operated</li>
   <li>Secured (and misconfigured)/li>
   <li>Exploited by attackers</li>
