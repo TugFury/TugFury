@@ -52,7 +52,8 @@ I’ve already completed the Google Cybersecurity Certificate, completed two thr
 <p>PowerShell scripts for automated DISA STIG compliance checks and remediation across Windows/Linux environments.</p>
 <p><a href="#">SIEM SOC Lab(in progress)</a></p>
 <p>SIEM analysis using KQL (Sentinel) and SPL (Splunk) with correlation rules and custom dashboards</p>
-<p><a href="#">CVE for Next.js</a></p>
+<p><a href="#">CVE Remediations</a></p>
+<p>Hands-on CVE analysis and remediation (including Next.js).</p>
 </ul>
 
 <h2>Skills</h2>
