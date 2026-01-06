@@ -2,10 +2,24 @@
 <p align="center"> <img src="https://img.shields.io/badge/Full--Stack-Builder-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Threat%20Hunter-purple?style=flat-square"/> <img src="https://img.shields.io/badge/Agentic%20AI%20Engineering-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Cloud%20Security-azure?style=flat-square"/> <img src="https://img.shields.io/badge/Offensive%20Security-red?style=flat-square"/> 
 <p>
 I investigate security incidents, hunt threats, and build detection rules aligned to MITRE ATT&CK.
-I’ve already completed the Google Cybersecurity Certificate, completed two threat-hunting competitions, and actively build real security tools, including an AI SOC agent, secure dashboards, and internal analytics systems.
+I’ve already completed the Google Cybersecurity Certificate, completed two threat-hunting competitions, and actively build real security tools, including an AI SOC agent, secure dashboards, and internal analytics systems.</p>
 
-Everything I’m doing right now  my projects, labs, learning path, and certifications is centered on one mission:
-</p>
+<h2>What you'll find here: </h2>
+<ul>
+  <li>Hypothesis-driven threat hunts with full investigation timelines</li>
+  <li>Custom detection rules and KQL queries for SIEM/EDR platforms</li>
+  <li>Security tools and automation scripts (Python, PowerShell)</li>
+  <li> SOC-style writeups documenting TTPs, IOCs, and remediation</li>
+</ul>
+
+
+
+
+<h2>🚨 Threat Hunting & Security Operations</h2>
+<ul>
+  <li>SIEM SOC Lab</li>
+</ul>
+
 </p>
 
 <br>
