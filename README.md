@@ -63,12 +63,6 @@ I’ve already completed the Google Cybersecurity Certificate, completed two thr
 <li><a href="#">Dead in the Water</a></li>
 </ul>
 
-## 🔧 Currently Building
-- AI SOC investigation agent (LangChain + Sentinel API)
-- Vulnerability automation workflow
-- Azure-based detection engineering lab
-
-
 
 <h2>Skills</h2>
 
