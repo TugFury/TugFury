@@ -12,7 +12,17 @@ I’ve already completed the Google Cybersecurity Certificate, completed two thr
   <li> SOC-style writeups documenting TTPs, IOCs, and remediation</li>
 </ul>
 
+<h2>Background:</h2>
+<p>19 years in IT (helpdesk → sysadmin → network engineer → developer) gives me deep technical context for understanding how systems are built, secured, and exploited.
+</p>
 
+<h2>Current focus: </h2>
+<ul>
+  <li>Threat hunting in Microsoft Sentinel and Defender for Endpoint</li>
+  <li>Detection engineering and SIEM correlation rules</li>
+  <li>Vulnerability management and remediation workflows</li>
+  <li> Incident response and forensic analysis</li>
+</ul>
 
 
 <h2>🚨 Threat Hunting & Security Operations</h2>
