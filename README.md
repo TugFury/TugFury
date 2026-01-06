@@ -35,19 +35,16 @@ I’ve already completed the Google Cybersecurity Certificate, completed two thr
 </ul>
 
 
-<h2>🚨 Threat Hunting & Security Operations</h2>
-<ul>
-  <li>SIEM SOC Lab</li>
-</ul>
-
-</p>
-
-<h2>👨‍💻Cybersecurity Projects:</h2>
+<h2>🔧 Security Operations & Automation</h2>
 
 🔵 BLUE TEAM 🔵 
 <ul>
-<li><a href="https://github.com/TugFury/vulnerability-management-program">Vulnerability Management Program Implementation</a></li>
-<li><a href="https://github.com/TugFury/STIGS">STIG Implementations</a></li>
+<p><a href="https://github.com/TugFury/vulnerability-management-program">Vulnerability Management Program Implementation</a></p>
+<p>Framework and automation for enterprise vulnerability assessment, risk prioritization, and remediation tracking using Tenable and PowerShell.</p>
+<p><a href="https://github.com/TugFury/STIGS">STIG Implementations</a></p>
+<p>PowerShell scripts for automated DISA STIG compliance checks and remediation across Windows/Linux environments.</p>
+<p><a href="#">SIEM SOC Lab(in progress)</a></p>
+<p>SIEM analysis using KQL (Sentinel) and SPL (Splunk) with correlation rules and custom dashboards</p>
 </ul>
 
 <h2>CVE Remidation </h2>
@@ -56,8 +53,7 @@ I’ve already completed the Google Cybersecurity Certificate, completed two thr
 </ul>
 <h2>🚨 Threat Hunting & Security Operations</h2>
 
- <p><a href="#">SIEM SOC Lab(in progress)</a></p>
- <p>SIEM analysis using KQL (Sentinel) and SPL (Splunk) with correlation rules and custom dashboards</p>
+
   
 
 
