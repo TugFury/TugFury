@@ -17,7 +17,7 @@ I’ve already completed the Google Cybersecurity Certificate, completed two thr
 <p>This background gives me deep context for how systems are:</p>
 <ul>
   <li>Built and operated</li>
-  <li>Secured (and misconfigured)/li>
+  <li>Secured (and misconfigured)</li>
   <li>Exploited by attackers</li>
   <li>Defended through effective detection engineering</li>
 </ul>
