@@ -55,19 +55,10 @@ I’ve already completed the Google Cybersecurity Certificate, completed two thr
   <li><a href="#">CVE for Next.js</a></li>
 </ul>
 <h2>🚨 Threat Hunting & Security Operations</h2>
-<ul>
-  <li>SIEM SOC Lab</li>
-</ul>
 
-
-<h2>🛡️ Threat Hunts – Cyber Range Community Investigations & Competitions</h2>
-<h3>THE AZUKI BREACH SAGA</h3>
-<ul>
-<li><a href="https://github.com/TugFury/Threat-Hunts/tree/main/Port%20of%20Entry">Port of Entry</a></li>
-<li><a href="https://github.com/TugFury/Threat-Hunts/tree/main/Cargo%20Hold">Cargo Hold</a></li>
-<li><a href="#">Bridge Takeover</a></li>
-<li><a href="#">Dead in the Water</a></li>
-</ul>
+ <p><a href="#">SIEM SOC Lab(in progress)</a></p>
+ <p>SIEM analysis using KQL (Sentinel) and SPL (Splunk) with correlation rules and custom dashboards</p>
+  
 
 
 <h2>Skills</h2>
