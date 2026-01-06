@@ -51,11 +51,6 @@ I’ve already completed the Google Cybersecurity Certificate, completed two thr
 <ul>
   <li><a href="#">CVE for Next.js</a></li>
 </ul>
-<h2>🚨 Threat Hunting & Security Operations</h2>
-
-
-  
-
 
 <h2>Skills</h2>
 
