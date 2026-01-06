@@ -50,7 +50,7 @@ I’ve already completed the Google Cybersecurity Certificate, completed two thr
 <p>Framework and automation for enterprise vulnerability assessment, risk prioritization, and remediation tracking using Tenable and PowerShell.</p>
 <p><a href="https://github.com/TugFury/STIGS">STIG Implementations</a></p>
 <p>PowerShell scripts for automated DISA STIG compliance checks and remediation across Windows/Linux environments.</p>
-<p><a href="#">SIEM SOC Lab(in progress)</a></p>
+<p><a href="#">SIEM SOC Environment(in progress)</a></p>
 <p>SIEM analysis using KQL (Sentinel) and SPL (Splunk) with correlation rules and custom dashboards</p>
 <p><a href="#">CVE Remediations</a></p>
 <p>Hands-on CVE analysis and remediation (including Next.js).</p>
