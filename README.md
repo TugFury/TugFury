@@ -36,9 +36,9 @@ I’ve already completed the Google Cybersecurity Certificate, completed two thr
 <h3>THE AZUKI BREACH SAGA</h3>
 <ul>
 <li><a href="https://github.com/TugFury/Threat-Hunts/tree/main/Port%20of%20Entry">Port of Entry</a></li>
-<li><a href="https://github.com/TugFury/Threat-Hunts/tree/main/Cargo%20Hold">Cargo Hold</a></li>
-<li><a href="#">Bridge Takeover</a></li>
-<li><a href="#">Dead in the Water</a></li>
+<!--<li><a href="https://github.com/TugFury/Threat-Hunts/tree/main/Cargo%20Hold">Cargo Hold</a></li>-->
+<!--<li><a href="#">Bridge Takeover</a></li>
+<li><a href="#">Dead in the Water</a></li> -->
 </ul>
 
 
