@@ -28,9 +28,11 @@ I’ve already completed the Google Cybersecurity Certificate, completed two thr
   <li>Threat hunting in Microsoft Sentinel and Defender for Endpoint</li>
   <li>Detection engineering and SIEM correlation rules</li>
   <li>Vulnerability management and remediation workflows</li>
-  <li> Incident response and forensic analysis</li>
+  <li>Incident response and forensic analysis</li>
 </ul>
 
+<h2>Simulated Detection Enviornment </h2>
+<a href="#">Simulated SOC </a>
 
 <h2>🛡️ Threat Hunts – Cyber Range Community Investigations & Competitions</h2>
 <h3>THE AZUKI BREACH SAGA</h3>
