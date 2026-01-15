@@ -32,7 +32,7 @@ I’ve already completed the Google Cybersecurity Certificate, completed two thr
 </ul>
 
 <h2>Simulated Detection Enviornment </h2>
-<a href="#">Simulated SOC </a>
+<a href="https://github.com/TugFury/Detection-Engineering-Lab?tab=readme-ov-file">Simulated SOC </a>
 
 <h2>🛡️ Threat Hunts – Cyber Range Community Investigations & Competitions</h2>
 <h3>THE AZUKI BREACH SAGA</h3>
